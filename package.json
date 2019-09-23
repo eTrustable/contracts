@@ -1,0 +1,27 @@
+{
+  "name": "etrustable-contracts",
+  "version": "1.0.0",
+  "description": "Contracts",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajmorenodelarosa/etrustable-contracts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajmorenodelarosa/etrustable-contracts/issues"
+  },
+  "homepage": "https://github.com/ajmorenodelarosa/etrustable-contracts#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.3.0",
+    "dotenv": "^8.0.0",
+    "truffle": "^5.0.4",
+    "truffle-hdwallet-provider": "^1.0.16"
+  }
+}
